@@ -1,1 +1,1 @@
-# new-repo
+## i am learning how to push READMe.md file in github repo.
